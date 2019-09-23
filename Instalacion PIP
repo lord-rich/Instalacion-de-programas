@@ -1,0 +1,4 @@
+Para instalar el programa PIP es necesario introducir el codigo:
+
+sudo apt-get install python-pip 
+
